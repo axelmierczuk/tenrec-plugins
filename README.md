@@ -11,4 +11,4 @@ If you would like your plugin added to the list, open a pull request.
 
 ## Plugins
 
-- [axelmierczuk/tenrec-capa](https://github.com/axelmierczuk/tenrec-capa): Integrates flare-capa with tenrec, allowing LLMs to analyze and extract capabilities present in an IDA session.
+- [axelmierczuk/tenrec-capa](https://github.com/axelmierczuk/tenrec-capa): Integrates [flare-capa](https://github.com/mandiant/capa) with tenrec, allowing LLMs to analyze and extract capabilities present in an IDA session.
